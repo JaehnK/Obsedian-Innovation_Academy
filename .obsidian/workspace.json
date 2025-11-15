@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2126e4e3beeed2bd",
+        "id": "1c3336ac3118ea8d",
         "type": "tabs",
         "children": [
           {
-            "id": "9c061cce068a105f",
+            "id": "9775d84e9c3cb47a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3️⃣ Resources/202511132249-취업 및 이직 가이드.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "202511132249-취업 및 이직 가이드"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#STAR-method",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3️⃣ Resources/202511132249-취업 및 이직 가이드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "202511132249-취업 및 이직 가이드 의 백링크"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3️⃣ Resources/202511132249-취업 및 이직 가이드.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "202511132249-취업 및 이직 가이드 의 나가는 링크"
             }
           },
           {
@@ -150,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제.md",
+                "file": "3️⃣ Resources/202511132249-취업 및 이직 가이드.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "무제 의 개요"
+              "title": "202511132249-취업 및 이직 가이드 의 개요"
             }
           },
           {
@@ -199,9 +205,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e229bc903285f650",
+  "active": "9775d84e9c3cb47a",
   "lastOpenFiles": [
+    "📅 Daily/2025-11-13.md",
+    "3️⃣ Resources/202511132249-취업 및 이직 가이드.md",
+    "2025-11-13.md",
+    "3️⃣ Resources/Career/취업 및 이직 가이드.md",
+    "202511131100-AI-백엔드-개발자-로드맵.md",
+    "무제.base",
+    "📚 Templates/template-resources.md",
     "무제.md",
+    "3️⃣ Resources/Career/무제.md",
+    "📚 Templates/template-area.md",
+    "📚 Templates/template-daily.md",
+    "📚 Templates/template-project.md",
+    "3️⃣ Resources/Career/취업-이직-가이드.md",
+    "3️⃣ Resources/Career",
+    "📚 Templates/template-archive.md",
+    "📚 Templates",
+    "무제 1.canvas",
+    "무제.canvas",
+    "무제 1.base",
     "📅 Daily",
     "4️⃣ Archive",
     "3️⃣ Resources",
